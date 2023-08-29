@@ -1,6 +1,3 @@
-<div align="center">
-<img src="https://lmichelin.fr/content/images/2019/05/5c1bb7dd5e7cc9678fcdc39f_Hello-World-Header.png" align="center" style="width: 60%" />
-</div> 
 <h1 align="center">Hi 👋, I'm Pujan deb nath</h1>
 <h3 align="center">🎓 I'm currently pursuing my Bachelors in Computer Science & Engineering.</h3>
 
