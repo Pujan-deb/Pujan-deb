@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pujan deb nath</h1>
-<h3 align="center">🎓 I am studying B.Sc.(Hons) Computer Science and Engineering.</h3>
+<h3 align="center">🎓 I'm currently pursuing my Bachelors in Computer Science & Engineering.</h3>
 
 - 🔭 I’m currently working on **Medical System App**
 
