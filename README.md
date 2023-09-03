@@ -4,6 +4,10 @@
 - 🔭 I’m currently working on **Medical System App**
 
 - 🌱 I’m currently learning **React, Next.js,Express.js**
+- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Pujan-deb&label=Profile%20views&color=0e75b6&style=flat" alt="Pujan-deb" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Pujan-deb" alt="Pujan-deb" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://codeforces.com/profile/Pujan_dn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Pujan_dn" height="30" width="40" /></a>
